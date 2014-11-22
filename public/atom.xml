@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    
+
+    <title>paintedzero</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>http://paintedzero.com/apple-touch-icon-precomposed.png</icon>
+    <subtitle>a riot in the square.</subtitle>
+    <link href="http://paintedzero.com/atom.xml" rel="self"/>
+    <link href="http://paintedzero.com/" rel="alternate" type="text/html"/>
+    <updated>2014-11-20T18:36:28-05:00</updated>
+    <id>http://paintedzero.com/</id>
+    <author>
+			<name></name>
+			<uri>http://paintedzero.com/</uri>
+			
+		</author>
+
+    
+    <entry>
+        <title>a duplicated post</title>
+        <link href="http://paintedzero.com/new/one-more/"/>
+        <updated>2014-11-19T00:00:00-05:00</updated>
+        <id>http://paintedzero.com/new/one-more</id>
+        <author>
+					<name></name>
+					<uri>http://paintedzero.com/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://paintedzero.com/images/pen.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This should be a picture of a typewriter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/typewriter.jpg&quot; alt=&quot;paint&quot; /&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>a duplicated post</title>
+        <link href="http://paintedzero.com/new/fourth-post-to-see-a-grid/"/>
+        <updated>2014-11-19T00:00:00-05:00</updated>
+        <id>http://paintedzero.com/new/fourth-post-to-see-a-grid</id>
+        <author>
+					<name></name>
+					<uri>http://paintedzero.com/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://paintedzero.com/images/pen.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This should be a picture of a typewriter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/typewriter.jpg&quot; alt=&quot;paint&quot; /&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>This post is from Sublime Text.</title>
+        <link href="http://paintedzero.com/sublime/this-post-is-from-sublime-text/"/>
+        <updated>2014-11-18T00:00:00-05:00</updated>
+        <id>http://paintedzero.com/sublime/this-post-is-from-sublime-text</id>
+        <author>
+					<name></name>
+					<uri>http://paintedzero.com/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://paintedzero.com/images/pen.png&quot;&gt;&lt;br/&gt;
+        	&lt;h1 id=&quot;skinny-bones-jekyll-starter&quot;&gt;Skinny Bones Jekyll Starter&lt;/h1&gt;
+
+&lt;p&gt;Just a little something I’m using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.&lt;/p&gt;
+
+&lt;p&gt;I’m currently using a variation of it on my personal website &lt;a href=&quot;http://mademistakes.com&quot;&gt;Made Mistakes&lt;/a&gt; with some modifications. To learn more about how to use the theme and install it check out the &lt;a href=&quot;http://mmistakes.github.io/skinny-bones-jekyll/&quot;&gt;Skinny Bones demo&lt;/a&gt; (&lt;em&gt;work in progress&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg&quot; alt=&quot;screenshot of Skinny Bones&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notable-features&quot;&gt;Notable Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stylesheet built using Sass. &lt;em&gt;Requires Jekyll 2.x&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Data files for easier customization of the site navigation/footer and for supporting multiple authors.&lt;/li&gt;
+  &lt;li&gt;Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.&lt;/li&gt;
+  &lt;li&gt;And more.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>new post colin!</title>
+        <link href="http://paintedzero.com/new/new-post-colin/"/>
+        <updated>2014-11-18T00:00:00-05:00</updated>
+        <id>http://paintedzero.com/new/new-post-colin</id>
+        <author>
+					<name></name>
+					<uri>http://paintedzero.com/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://paintedzero.com/images/pen.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;&lt;img src=&quot;/images/typewriter.jpg&quot; alt=&quot;paint&quot; /&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>a duplicated post</title>
+        <link href="http://paintedzero.com/new/a-duplicated-post/"/>
+        <updated>2014-11-18T00:00:00-05:00</updated>
+        <id>http://paintedzero.com/new/a-duplicated-post</id>
+        <author>
+					<name></name>
+					<uri>http://paintedzero.com/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://paintedzero.com/images/pen.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This should be a picture of a typewriter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/typewriter.jpg&quot; alt=&quot;paint&quot; /&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+</feed>

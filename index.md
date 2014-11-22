@@ -2,8 +2,9 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image:
+  feature: pen.png
 ---
-
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}

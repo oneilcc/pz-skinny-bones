@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: paintedzero
+description: a riot in the square.
+logo: paintedzero_logo.png
+teaser: penteaser.png
 locale:
-url:
+url: http://paintedzero.com
+destination: public
 
 # Jekyll configuration
 
@@ -20,15 +21,15 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+owner: paintedzero
+name: zero
+email: zero@paintedzero.com
+twitter: 0painted
+google:
+ad-client: 
+ad-slot: 
+bio: 
+avatar: paintedzero_logo.png
 disqus-shortname:
 
 
